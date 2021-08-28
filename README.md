@@ -3,4 +3,4 @@ Javascript Clock
 Languages Used
 HTML,CSS,Javascript
 
-LIVE DEMO:
+LIVE DEMO:https://bijumuhammad.github.io/Clock/
